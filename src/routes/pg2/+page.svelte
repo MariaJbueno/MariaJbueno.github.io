@@ -177,32 +177,37 @@
 
     <div class="divider"></div>
 
-    <!-- Bolos Recheados (com Bolo de Chocolate e Morango) -->
-    <h2>Bolos Recheados</h2>
+    <!-- Bolos Doces Recheados -->
+    <h2>Bolos Doces Recheados</h2>
     <div class="feature-item">
-        <img src="https://www.gourmet360.com.br/wp-content/uploads/2020/07/bolo-de-brigadeiro-com-morango.jpg" alt="Bolo de Chocolate com Brigadeiro e Morango" class="menu-image">
+        <img src="https://www.confeitariadaluana.com.br/wp-content/uploads/2020/06/Bolos-recheados.jpg" alt="Bolos Doces Recheados" class="menu-image">
         <div class="features">
             <p>Deliciosos bolos recheados, com opções irresistíveis como o bolo de chocolate com brigadeiro e morango. Uma verdadeira explosão de sabor para todos os gostos:</p>
             <ul>
-                <li>Bolo de Chocolate com Brigadeiro e Morango, uma combinação perfeita de doce e fresco.</li>
-                <li>Bolo de Cenoura com Brigadeiro, fofinho e irresistível.</li>
-                <li>Bolo de Chocolate com Creme de Avelã, cremoso e divino.</li>
+                <li>Bolo Red Velvet com Leite Ninho, uma combinação suave e cremosa.</li>
+                <li>Bolo de Creme de Avelã, rico e indulgente.</li>
+                <li>Bolo de Brigadeiro, para os amantes do chocolate.</li>
+                <li>Bolo de Frutas Cítricas, refrescante e leve.</li>
+                <li>Bolo de Frutas Vermelhas, uma opção delicada e doce.</li>
+                <li>Bolo de Doce de Leite e Nozes, uma mistura irresistível.</li>
             </ul>
         </div>
     </div>
 
     <div class="divider"></div>
 
-    <!-- Torta Doces (incluindo Limão) -->
-    <h2>Tortas Doces</h2>
+    <!-- Tortas Doces e Mousses -->
+    <h2>Tortas Doces e Mousses</h2>
     <div class="feature-item">
-        <img src="https://images.unsplash.com/photo-1586700177290-79e40a9c22b1" alt="Torta Doces" class="menu-image">
+        <img src="https://tudosobrebrigadeirogourmet.com/wp-content/uploads/2023/04/5-receitas-Tortas-para-Vender-em-Pedacos.webp" alt="Tortas Doces" class="menu-image">
         <div class="features">
-            <p>Experimente nossas deliciosas tortas doces, perfeitas para o seu momento de prazer. Dentre as opções, destacamos a clássica Torta de Limão e outras variações incríveis.</p>
+            <p>Experimente nossas deliciosas tortas doces, perfeitas para o seu momento de prazer. Dentre as opções, destacamos:</p>
             <ul>
+                <li>Torta de Morango com Castanhas, uma mistura crocante e doce.</li>
                 <li>Torta de Limão, com recheio cremoso e crosta crocante.</li>
-                <li>Torta de Chocolate, para quem ama um doce mais intenso.</li>
-                <li>Torta de Morango, fresca e irresistível.</li>
+                <li>Torta de Maracujá, refrescante e deliciosa.</li>
+                <li>Torta de Maçã, com um toque de canela e especiarias.</li>
+                <li>Torta de Chocolate com cobertura de Kit Kat, Bis e Ferrero Rocher.</li>
             </ul>
         </div>
     </div>

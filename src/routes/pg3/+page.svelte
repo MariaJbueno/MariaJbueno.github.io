@@ -181,6 +181,40 @@
 
     <div class="divider"></div>
 
+    <!-- Café Gelado -->
+    <h2>Café Gelado</h2>
+    <div class="feature-item">
+        <img src="https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2022/04/14/1631073624-dia-mundial-do-cafe-cafe-gelado.jpg" alt="Café Gelado" class="menu-image">
+        <div class="features">
+            <p>Para os dias mais quentes, experimente o nosso Café Gelado! Uma bebida refrescante, feita com café de alta qualidade e cubos de gelo, perfeita para quem ama café e precisa de uma dose de frescor:</p>
+            <ul>
+                <li>Café Gelado Clássico</li>
+                <li>Café Gelado com Baunilha</li>
+                <li>Café Gelado com Caramelo</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Chá -->
+    <h2>Chá</h2>
+    <div class="feature-item">
+        <img src="https://www.ahnatu.com.br/wp-content/uploads/2021/05/5-perguntas-sobre-chas-2-1.jpg" alt="Chá" class="menu-image">
+        <div class="features">
+            <p>Relaxe com uma seleção dos melhores chás. Perfeitos para um momento de tranquilidade e sabor:</p>
+            <ul>
+                <li>Chá de Camomila</li>
+                <li>Chá Verde</li>
+                <li>Chá de Hortelã</li>
+                <li>Chá Preto</li>
+                <li>Chá de Erva-doce</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="divider"></div>
+
     <!-- Refrigerantes -->
     <h2>Refrigerantes</h2>
     <div class="feature-item">
