@@ -217,7 +217,7 @@
     <!-- Bolos Caseiros -->
     <h2>Bolos Caseiros</h2>
     <div class="feature-item">
-        <img src="https://lh3.googleusercontent.com/proxy/FLp6UxBZxyH5xCVrhVKlsI2bCrCbUsM8CD7RQzEQYQbWVE5NjJdZEFnifBnUB14NFL_UXqM2pGNGHrdTTGJtP6yc-wMgCzyTIH8pgTbZk45y4rlQCw" alt="Bolos Caseiros" class="menu-image">
+        <img src="https://www.mundodosdoces.com/wp-content/uploads/2018/11/lojabolocaseiro4.jpg" alt="Bolos Caseiros" class="menu-image">
         <div class="features">
             <p>Deliciosos bolos caseiros, preparados com carinho e ingredientes fresquinhos. Perfeitos para qualquer momento do dia, nossos bolos são feitos de maneira tradicional, com um toque especial em cada receita. Opções disponíveis:</p>
             <ul>
